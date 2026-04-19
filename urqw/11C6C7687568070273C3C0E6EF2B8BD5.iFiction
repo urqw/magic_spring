@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>11C6C7687568070273C3C0E6EF2B8BD5</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Магический родник: Становление</title>
+			<author>Олег Мушта (сэр Ольгерд)</author>
+			<language>ru</language>
+			<firstpublished>2005-04-12</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Есть путь назад. Пути обратно нет!<br/>Ты пытаешься вспомнить всё…<br/>Детство: ты безмятежно бегаешь по зелёным лугам, с другими эльфами-мальчишками подсматриваешь за единорогами…<br/>А потом юность… Строгие взгляды отца…<br/>И вот ты уже на пути приключений… Лук и меч, храбрость и дерзость…<br/>И первые смерти на твоих глазах, страдания, лишения…<br/>Никто не знал, во что выльется безбашенная кампания со взятием форта орков.<br/>Все земли Ройна оказались под ордами серных сил.<br/>Мародёрства, убийства, беспомощность лордов…<br/>Вы должны что-то делать!<br/><br/>Вчера ваших товарищей не стало… Вам теперь надо добраться до гор Мэрр, которые простираются на востоке за рекой с таким же названием.<br/>Дюжина Орков застала вашу компанию врасплох: Гувер и Рейнджер не успели даже вытащить мечи из ножен, а некромант Мильцус, создав облако смерти, не сумел остановить десяток топоров, направленных на него…<br/>Только вы смогли спастись…</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/?id=magic_spring</url>
+			<authoremail>mushtao@mail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2026-04-19</originated>
+		</colophon>
+	</story>
+</ifindex>
